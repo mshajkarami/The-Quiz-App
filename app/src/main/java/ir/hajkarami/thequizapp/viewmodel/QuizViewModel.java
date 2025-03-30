@@ -19,6 +19,4 @@ public class QuizViewModel extends ViewModel {
         mQuestionListLiveData = mQuizRepository.getQuestionsFromAPI();
     }
 
-
-
 }
