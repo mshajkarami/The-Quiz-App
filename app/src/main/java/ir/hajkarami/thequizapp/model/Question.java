@@ -1,4 +1,4 @@
-package ir.hajkarami.thequizapp;
+package ir.hajkarami.thequizapp.model;
 
 
 import com.google.gson.annotations.Expose;
